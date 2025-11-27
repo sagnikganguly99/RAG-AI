@@ -319,7 +319,7 @@ EMBED_MODEL = get_secret("OPENAI_EMBEDDING_MODEL", "text-embedding-3-small")
 TOP_K_DEFAULT = int(get_secret("RAG_TOP_K", "5"))
 SNIPPET_CHARS = int(get_secret("PINECONE_SNIPPET_CHARS", "800"))
 
-LOGO_PATH = get_secret("LOGO_PATH", "assets/logo.png")
+LOGO_PATH = get_secret("LOGO_PATH", "assets/logo.jpg")
 LOGO_URL = get_secret("LOGO_URL", None)
 
 # Minimal validation
