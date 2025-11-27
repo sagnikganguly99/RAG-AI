@@ -26,9 +26,9 @@ except Exception:
 
 # ---------- config ----------
 cfg = dotenv_values(".env")
-OPENAI_API_KEY = cfg.get("OPENAI_API_KEY")
+OPENAI_API_KEY = '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' #cfg.get("OPENAI_API_KEY")
 OPENAI_CHAT_MODEL = cfg.get("OPENAI_CHAT_MODEL", "gpt-4o-mini")  # set in .env if you prefer another
-PINECONE_API_KEY = cfg.get("PINECONE_API_KEY")
+PINECONE_API_KEY = 'pcsk_2X4gNS_DPRxsoG2hAGmbiYJfD6AoERgviVU7bV9Wo4QhmwKPaEAY6YJ65268c2TwniioT7' #cfg.get("PINECONE_API_KEY")
 PINECONE_INDEX = cfg.get("PINECONE_INDEX")
 PINECONE_HOST = cfg.get("PINECONE_HOST")
 PINECONE_DIM = int(cfg.get("PINECONE_DIMENSIONS", "1536"))

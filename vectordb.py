@@ -172,7 +172,7 @@ except Exception as exc:
 
 # ---------------- load .env ----------------
 cfg = dotenv_values(".env")
-PINE_API_KEY: Optional[str] = cfg.get("PINECONE_API_KEY")
+PINE_API_KEY: Optional[str] = 'pcsk_2X4gNS_DPRxsoG2hAGmbiYJfD6AoERgviVU7bV9Wo4QhmwKPaEAY6YJ65268c2TwniioT7'
 PINE_INDEX: str = cfg.get("PINECONE_INDEX", "vectorindex-1536")
 PINE_HOST: Optional[str] = cfg.get("PINECONE_HOST") or None
 PINE_DIM: int = int(cfg.get("PINECONE_DIMENSIONS", "1536"))
