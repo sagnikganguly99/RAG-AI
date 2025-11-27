@@ -1,0 +1,7 @@
+HSBC Visa Platinum Credit Card HSBC 18 65 4 750 0 0 https://www.hsbc.co.in/credit-cards/products/visa-platinum/
+IDFC FIRST Power+ Credit Card IDFC 21 65 3 750 499 499 https://www.idfcfirstbank.com/credit-card/hpcl-power-fuel-credit-card
+IDFC FIRST Wealth Credit Card IDFC 21 65 36 750 0 0 https://www.idfcfirstbank.com/credit-card/wealth
+IDFC FIRST Select Credit Card IDFC 21 65 12 750 0 0 https://www.idfcfirstbank.com/credit-card/select
+IDFC FIRST Millennia Credit Card IDFC 21 65 3 750 0 0 https://www.idfcfirstbank.com/credit-card/millennia
+IDFC FIRST Mayura Credit Card IDFC 21 65 25 750 5999 5999 https://www.idfcfirstbank.com/credit-card/metal-credit-card/mayura
+IDFC FIRST Ashva Credit Card IDFC 21 65 3 750 2999 2999 https://www.idfcfirstbank.com/credit-card/metal-credit-card/ashva

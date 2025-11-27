@@ -1,0 +1,8 @@
+YES Bank ELITE+ Credit Card YES 21 60 3.5 700 999 999 https://www.yesbank.in/personal-banking/yes-individual/cards/credit-cards/elite-plus-credit-card
+YES Bank SELECT Credit Card YES 21 60 3.5 700 399 399 https://www.yesbank.in/personal-banking/yes-individual/cards/credit-cards/select-credit-card
+YES Bank ACE Credit Card YES 21 60 3 700 499 499 https://www.yesbank.in/personal-banking/yes-individual/cards/credit-cards/ace-credit-card
+HSBC Taj Credit Card HSBC 25 75 40 750 110000 110000 https://www.hsbc.co.in/credit-cards/products/taj/
+HSBC TravelOne Credit Card HSBC 18 65 4 750 4999 4999 https://www.hsbc.co.in/credit-cards/products/travelone/
+HSBC Premier MasterCard Credit Card HSBC 21 65 5 750 12000 20000 https://www.hsbc.co.in/credit-cards/products/premier/
+HSBC Live+ Credit Card HSBC 18 65 4 750 999 999 https://www.hsbc.co.in/credit-cards/products/live-plus/
+HSBC Visa Platinum Credit Card HSBC 18 65 4 750 0 0 https://www.hsbc.co.in/credit-cards/products/visa-platinum/

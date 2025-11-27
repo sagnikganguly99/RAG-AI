@@ -1,0 +1,6 @@
+Axis Bank ACE Credit Card Axis 18 70 6 700 499 499 https://www.axisbank.com/retail/cards/credit-card/axis-bank-ace-credit-card
+Amazon Pay ICICI Credit Card ICICI 18 60 3 750 0 0 https://www.icicibank.com/personal-banking/cards/credit-card/amazon-pay-credit-card/index
+ICICI Bank Sapphiro Credit Card ICICI 21 65 3 750 6500 3500 https://www.icicibank.com/personal-banking/cards/credit-card/sapphiro-credit-card/key-privileges
+MakeMyTrip ICICI Bank Signature Credit Card ICICI 21 65 3 750 999 999 https://www.icicibank.com/personal-banking/cards/credit-card/makemytrip/signature-card/key-privileges
+ICICI Coral Credit Card ICICI 18 70 1 750 500 500 https://www.icicibank.com/personal-banking/cards/credit-card/coral-credit-card/benefits
+ICICI Emeralde Private Metal Credit Card ICICI 21 65 36 700 12499 12499 https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card

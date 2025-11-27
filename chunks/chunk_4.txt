@@ -1,0 +1,7 @@
+Axis Atlas Credit Card Axis 18 70 12 700 5000 5000 https://www.axisbank.com/retail/cards/credit-card/axis-bank-atlas-credit-card
+Axis Bank Horizon Credit Card Axis 18 70 6 700 3000 3000 https://www.axisbank.com/retail/cards/credit-card/axis-horizon-credit-card
+Axis Bank SELECT Credit Card Axis 18 70 9 700 3000 3000 https://www.axisbank.com/retail/cards/credit-card/axis-bank-select-credit-card
+Flipkart Axis Bank Credit Card Axis 18 70 1.8 700 500 500 https://www.axisbank.com/retail/cards/credit-card/flipkart-axisbank-credit-card
+Axis My Zone Credit Card Axis 18 70 6 700 500 500 https://www.axisbank.com/retail/cards/credit-card/my-zone-credit-card
+IndianOil Axis Bank Credit Card Axis 18 70 6 700 500 500 https://www.axisbank.com/retail/cards/credit-card/indianoil-axis-bank-credit-card
+Axis Bank ACE Credit Card Axis 18 70 6 700 499 499 https://www.axisbank.com/retail/cards/credit-card/axis-bank-ace-credit-card

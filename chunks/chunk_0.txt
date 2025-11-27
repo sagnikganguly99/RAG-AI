@@ -1,0 +1,8 @@
+Name Bank Minimum Age Maximum Age Minimum Income (LPA) Minimum Credit Score Joining fee Annual fee Issuer Link
+Cashback SBI Card SBI 21 70 5 750 999 999 https://www.sbicard.com/en/personal/credit-cards/rewards/cashback-sbi-card.page
+BPCL SBI Card Octane SBI 21 70 3.6 700 1499 1499 https://www.sbicard.com/en/personal/credit-cards/travel/bpcl-sbi-card-octane.page
+SBI Card ELITE SBI 21 70 10 750 4999 4999 https://www.sbicard.com/en/personal/credit-cards/lifestyle/sbi-card-elite.page
+Yatra SBI Card SBI 21 70 3 700 499 499 https://www.sbicard.com/en/personal/credit-cards/travel/yatra-sbi-card.page
+IRCTC SBI Card Premier SBI 21 70 4 700 1499 1499 https://www.sbicard.com/en/personal/credit-cards/travel/irctc-premier-card.page
+SBI SimplyCLICK Credit Card SBI 21 70 3 700 499 499 https://www.sbicard.com/en/personal/credit-cards/shopping/simplyclick-sbi-card.page
+SBI SimplySAVE Credit Card SBI 21 70 3 700 499 499 https://www.sbicard.com/en/personal/credit-cards/shopping/simplysave-sbi-card.page
