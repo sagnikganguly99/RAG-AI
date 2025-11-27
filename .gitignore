@@ -1,0 +1,10 @@
+# Ignore local environment files containing secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
