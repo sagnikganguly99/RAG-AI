@@ -187,7 +187,7 @@ def call_chat(messages: List[Dict[str,str]], model: str = CHAT_MODEL, temperatur
     return content.strip()
 
 # --- UI: logo support, collapsible left panel, and layout ---
-st.set_page_config(page_title="CardGuru — RAG Chat", layout="wide")
+st.set_page_config(page_title="CardGuru", layout="wide")
 
 def show_logo(width: int = 110):
     """Display logo from URL or local path (why: brand identity)."""
@@ -218,11 +218,11 @@ if show_left:
     with col_logo:
         show_logo()
     with col_title:
-        st.markdown("## CardGuru — RAG Chat")
+        st.markdown("## CardGuru")
         st.markdown("A conversational assistant for Indian credit-card questions. Use the chat box below.")
 else:
     # show title centered (no left column)
-    st.markdown("<div style='text-align:center;'><h2>CardGuru — RAG Chat</h2>"
+    st.markdown("<div style='text-align:center;'><h2>CardGuru</h2>"
                 "<p>A conversational assistant for Indian credit-card questions. Use the chat box below.</p></div>", unsafe_allow_html=True)
 
 # init messages container
